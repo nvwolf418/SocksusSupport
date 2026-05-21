@@ -1,4 +1,4 @@
-Socksus: Escape from Bad Guy Tower iOS Privacy Policy
+# Socksus: Escape from Bad Guy Tower iOS Privacy Policy
 
 Effective Date: May 21, 2026
 
