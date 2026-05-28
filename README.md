@@ -99,9 +99,12 @@ If macOS displays any of the following warnings, it is because the game is newly
 ### Method 1 — Open Anyway
 
 1. Try opening the game normally. When the warning appears, click **Done**.
-2. Open **System Settings** and navigate to **Privacy & Security**.
-3. Scroll down until you see the blocked game notification.
-4. Click **Open Anyway** and confirm by clicking **Open**.
+   <img width="274" height="301" alt="image" src="https://github.com/user-attachments/assets/14f3e282-3af6-4c56-ae4d-961375fe01d6" />
+3. Open **System Settings** and navigate to **Privacy & Security**.
+4. Scroll down until you see the blocked game notification.
+5. Click **Open Anyway** and confirm by clicking **Open**.
+<img width="470" height="774" alt="image" src="https://github.com/user-attachments/assets/efa31e69-6b04-47ea-8bbc-669f1810627a" />
+
 
 ### Method 2 — Right-Click Open Method
 
