@@ -4,10 +4,10 @@ Support for Socksus
 Thank you for contributing to our game! Hopefully there will be no issues here, but if you need help  with anything or find any bugs, below are a few small steps!
 
 Please provide:
-Level information
-Platform (windows, mac, ios, android)
-OS or Mobile Version
-Pictures of the error if possible
+Level information  
+Platform (windows, mac, ios, android)  
+OS or Mobile Version  
+Pictures of the error if possible  
 
 
 Please go to this link:
