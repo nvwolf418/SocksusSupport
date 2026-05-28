@@ -18,12 +18,6 @@ https://github.com/nvwolf418/SocksusSupport/issues
 Then go to the "New Issue" page and upload that information there. 
 
 
-
-
-Here is the updated guide formatted in clean, scannable Markdown, optimized for a GitHub repository (`README.md` or a wiki page).
-
-I have added a table of contents for easy navigation, used alert blocks for important notes, and converted the step-by-step instructions into clear, actionable lists.
-
 ---
 
 # Having Trouble Installing the Game?
