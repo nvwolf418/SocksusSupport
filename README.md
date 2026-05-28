@@ -32,10 +32,10 @@ Because our game is brand new, some devices or operating systems may temporarily
 
 ## Table of Contents
 
-* [Android Installation Guide](https://www.google.com/search?q=%23android-installation-guide)
-* [Windows PC Installation Guide](https://www.google.com/search?q=%23windows-pc-installation-guide)
-* [Mac Installation Guide](https://www.google.com/search?q=%23mac-installation-guide)
-* [Still Having Problems?](https://www.google.com/search?q=%23still-having-problems)
+* [Android Installation Guide](https://github.com/nvwolf418/SocksusSupport/blob/main/README.md#android-installation-guide)
+* [Windows PC Installation Guide](https://github.com/nvwolf418/SocksusSupport/blob/main/README.md#windows-pc-installation-guide)
+* [Mac Installation Guide](https://github.com/nvwolf418/SocksusSupport/blob/main/README.md#mac-installation-guide)
+* [Still Having Problems?](https://github.com/nvwolf418/SocksusSupport/blob/main/README.md#still-having-problems)
 
 ---
 
